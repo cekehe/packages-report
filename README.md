@@ -8,4 +8,7 @@ sdga
 
 A local change.
 
-Let's cast a spell! "Wingardium leviosaaaaa"
+
+Let's cast a spell! "Wingardium leviosaaaaa" (hermione)
+Let's cast a spell! "Win-GAR-dium levi- O-sa" (ron)
+
